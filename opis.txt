@@ -1,0 +1,15 @@
+Mateusz Anczykowski
+DŸwiêkopis
+
+
+Program, w którym rysujemy coœ i, na podstwie tego rysunku generowany jest dŸwiêk. 
+Zale¿nie od miejsca, w którym sie rysuje zmienia sie wysokoœæ, natê¿enie, pojawia sie rytm itp.
+Dodatkowo naciœniecie klawisza zmiennia np. kolor rysunku i nak³ada na dŸwiêk jakiœ efekt np. delay.
+(trzeba by to jakoœ skomplikowaæ bo s¹ poodbne projekty)
+
+Opis funkcjonalny:
+1. Naciœniêcie i przytrzymanie myszy powoduje rysowanie lini.
+2. Po³o¿enie punktów sk³adaj¹cych siê na linie i kszta³ty jest zapisywane
+3. Wartosæi na osi x i y wykorzystoywane sa jako parametry okreœlaj¹ce w³aœciwoœci dŸwiêku.
+4. Byc moze najwygoniej by³oby podzieliæ okno na kilka sekcji, z których ka¿da odpowiada³a by za inny parametr dŸwiêku 
+5. Naciœniêcie klawisza (np. klawisze 1,2,3) powoduje jednoczesn¹ zmiane graficzn¹ (zmianê koloru? jakiœ filtr?) i na³o¿enie efektu (delay, reverb)
